@@ -1,0 +1,16 @@
+body{background:black;}
+
+.x1{
+	text-shadow: 2px 2px;
+	color:#03C4AA;
+	text-decoration: overline;
+	text-align:center;
+	font-size:45px;
+	font-family: "Lucida Console", "Courier New", monospace;
+	}
+
+.x2{
+	color:#03C403;
+	text-transform: uppercase;
+	font-family: "Lucida Console", "Courier New", monospace;
+	padding:50px 50px;}
